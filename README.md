@@ -1,7 +1,7 @@
-# Leetcode-Programs by **_Advay Emmett_**
+### Hi,<br>
+I’m a 12th-grade student from Bihar, India, with a strong interest in software development.<br> I enjoy contributing to open-source projects and helping others improve their code. Since getting my first personal laptop, my curiosity and passion for learning have grown significantly, and I actively explore different technologies through personal projects. I primarily focus on Android development using Kotlin and Jetpack Compose, with experience in Java/XML and Kotlin/XML-based Android development, as well as web development as a supporting skill.
 
-Efficient and optimized Java solutions for popular LeetCode problems — focused on clean code, algorithmic thinking, and
-real performance improvements.
+# Leetcode-Programs by **_Advay Emmett_**
 
 ## About This Repository
 
@@ -9,9 +9,9 @@ This repository contains my personal solutions to LeetCode problems that I’ve 
 
 * > Problem-solving and logic building
 
-* > Understanding of algorithms and data structures
+* > Understanding algorithms and data structures
 
-* > Code optimization and performance analysis
+* > Code optimization techniques
 
 I use this repo to track progress and share techniques like two-pointers, dynamic programming, recursion, sliding
 window, and more.
@@ -29,7 +29,7 @@ Occasional language experiments
 
 ## Learning Focus
 
-“Write clean, efficient, and readable code that balances logic and performance.”
+“Try different approaches to finally reach an efficient, and readable code.”
 
 My actual goal is not to master Java but to master real life problem-solving, which develops approach and help find path
 to tackle challenges in projects.<br>
