@@ -1,7 +1,7 @@
 ### Hi,<br>
 I’m a 12th-grade student from Bihar, India, with a strong interest in software development.<br> I enjoy contributing to open-source projects and helping others improve their code. Since getting my first personal laptop, my curiosity and passion for learning have grown significantly, and I actively explore different technologies through personal projects. I primarily focus on Android development using Kotlin and Jetpack Compose, with experience in Java/XML and Kotlin/XML-based Android development, as well as web development as a supporting skill.
 
-# Leetcode-Programs by **_Advay Emmett_**
+# Leetcode-Programs
 
 ## About This Repository
 
@@ -38,6 +38,3 @@ Language can be any, but the concept and technique remain same **always**.
 ## Connect With Me
 
 If you want to discuss algorithms or Java optimization ideas or any help, feel free to connect or open issues!
-
-Youtube: [CE Advay Emmett](http://www.youtube.com/@ce-advayemmett)<br>
-GitHub: [AdvayEmmett](https://github.com/advayEmmett)
